@@ -3,10 +3,8 @@
 I'm a passionate data analyst, Python enthusiast, and data visualization wizard. I love working with data, creating insightful visualizations, and contributing to open-source projects.
 
 🌱 I'm currently Learning Python for AI development.
-💼 I'm open to job opportunities. Feel free to contact me!
-📫 You can reach me at chamberidodoh@gmail.com
 
-## 🔧 Technologies & Tools
+📫 You can reach me at chamberidodoh@gmail.com
 
 - Python, SQL, Data Analysis, Data Visualization
 - Matplotlib, Seaborn, Jupyter, Pandas, NumPy, Scikit-Learn, Excel
