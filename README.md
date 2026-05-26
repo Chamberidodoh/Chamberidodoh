@@ -105,7 +105,7 @@ Phase 4 🟡  React · System Design · Cloud · Portfolio  (Weeks 19–24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamberlineidodoh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A2463?style=flat&logo=framer&logoColor=white)](https://chamberlineidodoh.framer.website/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Chamberidodoh@gmail.com)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/chamberlineidodoh)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/chamberidodoh)
 
 ---
 
