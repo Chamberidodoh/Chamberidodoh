@@ -100,8 +100,6 @@ Phase 4 🟡  React · System Design · Cloud · Portfolio  (Weeks 19–24)
 
 I document my software engineering journey publicly — sharing wins, bugs, breakthroughs, and lessons every week.
 
-Follow along: **#100DaysOfCode** on LinkedIn | Daily commits on GitHub
-
 ---
 
 > *"The best way to learn software engineering is to build things that actually work."*
