@@ -49,19 +49,6 @@ Currently completing an intensive 6-month full-stack software engineering progra
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamberlineidodoh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamberlineidodoh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamberlineidodoh&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 🧠 My Learning Journey — 6-Month Programme
 
 ```
