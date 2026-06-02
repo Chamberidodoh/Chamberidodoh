@@ -10,14 +10,23 @@ Currently completing an intensive 6-month full-stack software engineering progra
 
 ## 🚀 What I'm Building Right Now
 
-| Project | Stack | Status |
-|---|---|---|
-| [DevBoard — Developer Project Tracker]([https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker]) | React · Node.js · PostgreSQL · Docker · AWS S3 | 🟢 Live |
-| [Full-Stack Expense Tracker](https://github.com/chamberlineidodoh/expense-tracker) | Node.js · Express · MongoDB · JWT | 🟡 In Progress|
-| [React Weather Dashboard](https://github.com/chamberlineidodoh/react-weather) | React · Hooks · OpenWeather API · Netlify | 🟡 In Progress |
-| [RESTful Bookmarks API](https://github.com/chamberlineidodoh/bookmarks-api) | Node.js · Express · JWT · Render | 🟡 In Progress |
-| [DSA Solutions Repository](https://github.com/chamberlineidodoh/dsa-solutions) | Python · JavaScript · pytest · 55+ problems | 🟡 In Progress |
+## 📌 Featured Projects
 
+### 🗂 [DevBoard — Developer Project Tracker]( https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker)
+> Full-stack SaaS-style app for developers to track projects, tech stacks, and progress.
+> React · Node.js · PostgreSQL · Docker · GitHub Actions CI/CD · AWS S3
+
+### 💰 [Full-Stack Expense Tracker](https://github.com/chamberlineidodoh/expense-tracker)
+> Authenticated web app with cloud database, real-time charts, and full CRUD.
+> Node.js · Express · MongoDB Atlas · JWT · Chart.js · Render
+
+### 🧩 [DSA Solutions](https://github.com/chamberlineidodoh/dsa-solutions)
+> 55+ documented LeetCode solutions with Big-O analysis and pytest test suites.
+> Python · JavaScript · Algorithms · Data Structures
+
+### 🌤 [React Weather Dashboard](https://github.com/chamberlineidodoh/react-weather)
+> Real-time weather app with custom hooks, geolocation, and 5-day forecast.
+> React · Hooks · Context API · OpenWeather API · Netlify
 ---
 
 ## 🛠 Tech Stack
@@ -46,44 +55,6 @@ Currently completing an intensive 6-month full-stack software engineering progra
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🧠 My Learning Journey — 6-Month Programme
-
-```
-Phase 1 ✅  HTML · CSS · JavaScript Foundations        (Weeks 1–6)
-Phase 2 ✅  Python · Node.js · Databases · REST APIs   (Weeks 7–12)
-Phase 3 ✅  DSA · Algorithms · Git · Open Source       (Weeks 13–18)
-Phase 4 🟡  React · System Design · Cloud · Portfolio  (Weeks 19–24)
-```
-
-**By the numbers so far:**
-- 🟩 **10** deployed projects
-- 💡 **55+** LeetCode problems solved
-- 🔀 **2** open source pull requests merged
-- 📅 **45-day** consecutive coding streak
-- ☁️ **3** apps live in production
-
----
-
-## 📌 Featured Projects
-
-### 🗂 [DevBoard — Developer Project Tracker]( https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker)
-> Full-stack SaaS-style app for developers to track projects, tech stacks, and progress.
-> React · Node.js · PostgreSQL · Docker · GitHub Actions CI/CD · AWS S3
-
-### 💰 [Full-Stack Expense Tracker](https://github.com/chamberlineidodoh/expense-tracker)
-> Authenticated web app with cloud database, real-time charts, and full CRUD.
-> Node.js · Express · MongoDB Atlas · JWT · Chart.js · Render
-
-### 🧩 [DSA Solutions](https://github.com/chamberlineidodoh/dsa-solutions)
-> 55+ documented LeetCode solutions with Big-O analysis and pytest test suites.
-> Python · JavaScript · Algorithms · Data Structures
-
-### 🌤 [React Weather Dashboard](https://github.com/chamberlineidodoh/react-weather)
-> Real-time weather app with custom hooks, geolocation, and 5-day forecast.
-> React · Hooks · Context API · OpenWeather API · Netlify
 
 ---
 
