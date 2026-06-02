@@ -12,7 +12,7 @@ Currently completing an intensive 6-month full-stack software engineering progra
 
 | Project | Stack | Status |
 |---|---|---|
-| [DevBoard — Developer Project Tracker]([https://github.com/chamberlineidodoh/devboard](https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker)) | React · Node.js · PostgreSQL · Docker · AWS S3 | 🟢 Live |
+| [DevBoard — Developer Project Tracker]([https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker]) | React · Node.js · PostgreSQL · Docker · AWS S3 | 🟢 Live |
 | [Full-Stack Expense Tracker](https://github.com/chamberlineidodoh/expense-tracker) | Node.js · Express · MongoDB · JWT | 🟡 In Progress|
 | [React Weather Dashboard](https://github.com/chamberlineidodoh/react-weather) | React · Hooks · OpenWeather API · Netlify | 🟡 In Progress |
 | [RESTful Bookmarks API](https://github.com/chamberlineidodoh/bookmarks-api) | Node.js · Express · JWT · Render | 🟡 In Progress |
@@ -69,7 +69,7 @@ Phase 4 🟡  React · System Design · Cloud · Portfolio  (Weeks 19–24)
 
 ## 📌 Featured Projects
 
-### 🗂 [DevBoard — Developer Project Tracker](https://github.com/chamberlineidodoh/devboard)
+### 🗂 [DevBoard — Developer Project Tracker]( https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker)
 > Full-stack SaaS-style app for developers to track projects, tech stacks, and progress.
 > React · Node.js · PostgreSQL · Docker · GitHub Actions CI/CD · AWS S3
 
