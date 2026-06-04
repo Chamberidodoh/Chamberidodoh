@@ -16,7 +16,7 @@ Currently completing an intensive 6-month full-stack software engineering progra
 > Full-stack SaaS-style app for developers to track projects, tech stacks, and progress.
 > React · Node.js · PostgreSQL · Docker · GitHub Actions CI/CD · AWS S3
 
-### 💰 [Full-Stack Expense Tracker](https://github.com/chamberlineidodoh/expense-tracker)
+### 💰 [Full-Stack Expense Tracker](https://github.com/Chamberidodoh/Full-Stack-Expense-Tracker)
 > Authenticated web app with cloud database, real-time charts, and full CRUD.
 > Node.js · Express · MongoDB Atlas · JWT · Chart.js · Render
 
