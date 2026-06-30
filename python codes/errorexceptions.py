@@ -1,3 +1,8 @@
+
+
+import os
+
+
 def main():
     print("Hello from python-series!")
 
@@ -111,8 +116,6 @@ except Exception as e:
     raise  # Let the error propagate
 
 
-
-import os
 
 # Check first
 if os.path.exists('data.txt'):
