@@ -24,7 +24,7 @@ My focus is on building intelligent applications that solve real business proble
 
 ## 🧠 Featured AI Projects
 
-### 1. Internal Document Q&A System
+### 1. [Internal Document Q&A System](https://github.com/chamberidodoh)
 
 An AI-powered document assistant that allows business users to upload internal documents and ask questions in natural language.
 
@@ -34,23 +34,9 @@ Business users often struggle to search through internal documents manually.
 **Tech Stack:**  
 FastAPI · LangChain · ChromaDB · OpenAI · Streamlit · Docker
 
-**Key Features:**
-- Multi-document upload
-- Semantic search
-- AI-generated answers
-- Source citations
-- Conversation history
-- Dockerized deployment
-
-**Metrics Tracked:**
-- Query latency
-- Retrieval accuracy
-- User sessions
-- RAG evaluation score
-
 ---
 
-### 2. Domain-Specific LLM Fine-Tuning
+### 2. [Domain-Specific LLM Fine-Tuning](https://github.com/chamberidodoh)
 
 A fine-tuning project focused on improving generic language models for specialized domains such as legal, medical, or coding tasks.
 
@@ -60,23 +46,9 @@ Generic LLMs often lack deep expertise in specialized fields.
 **Tech Stack:**  
 Hugging Face · PEFT/LoRA · PyTorch · Weights & Biases · FastAPI · Hugging Face Spaces
 
-**Key Features:**
-- QLoRA fine-tuning
-- Domain-specific dataset training
-- Model evaluation dashboard
-- REST API for inference
-- Base model vs fine-tuned model comparison
-
-**Metrics Tracked:**
-- Perplexity improvement
-- Task accuracy
-- Training loss
-- Evaluation loss
-- ROUGE and BLEU scores
-
 ---
 
-### 3. AI Research Assistant
+### 3. [AI Research Assistant](https://github.com/chamberidodoh)
 
 A smart research assistant that searches the web, reads papers, remembers past research sessions, and generates structured reports.
 
@@ -85,25 +57,6 @@ Manual research on any topic can take hours, while AI can speed up the process s
 
 **Tech Stack:**  
 LangGraph · Tavily Search · ChromaDB · FastAPI · React/Next.js · Redis
-
-**Key Features:**
-- Web search
-- Academic paper reading
-- Memory across sessions
-- Structured report generation
-- Source citations
-- Redis-powered caching
-
-**Stretch Features:**
-- Voice input with Whisper
-- Email delivery
-- Scheduled research runs
-
-**Metrics Tracked:**
-- Research quality rating
-- Number of sources cited
-- Session retention
-- Report generation speed
 
 ---
 
@@ -123,9 +76,7 @@ LangGraph · Tavily Search · ChromaDB · FastAPI · React/Next.js · Redis
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A4FCF?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Frontend & Deployment
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
