@@ -1,7 +1,6 @@
 # Hi, I'm Chamberline Idodoh 👋
 
-**Software Engineer · Full-Stack Developer · Based in Abuja, Nigeria 🇳🇬**
-
+**Software Engineer · Full-Stack Developer ·
 I'm a software engineer in training with 6+ years of professional experience in digital product design and systems thinking. I bring a rare combination of creative problem-solving and technical engineering — I understand both what to build *and* how to build it.
 
 Currently completing an intensive 6-month full-stack software engineering programme — building real, deployed projects every week and documenting the journey publicly.
