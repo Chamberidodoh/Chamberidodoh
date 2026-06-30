@@ -1,77 +1,170 @@
 # Hi, I'm Chamberline Idodoh 👋
 
-**Software Engineer · Full-Stack Developer ·
-I'm a software engineer in training with 6+ years of professional experience in digital product design and systems thinking. I bring a rare combination of creative problem-solving and technical engineering — I understand both what to build *and* how to build it.
+### AI Engineer | Backend Developer | AI-Powered Product Builder
 
-Currently completing an intensive 6-month full-stack software engineering programme — building real, deployed projects every week and documenting the journey publicly.
+I am currently building my path into AI Engineering by creating practical, real-world projects that combine **LLMs, Retrieval-Augmented Generation, fine-tuning, APIs, databases, and full-stack deployment**.
 
----
-
-## 🚀 What I'm Building Right Now
-
-## 📌 Featured Projects
-
-### 🗂 [DevBoard — Developer Project Tracker]( https://github.com/Chamberidodoh/DevBoard---Developer-Project-Tracker)
-> Full-stack SaaS-style app for developers to track projects, tech stacks, and progress.
-> React · Node.js · PostgreSQL · Docker · GitHub Actions CI/CD · AWS S3
-
-### 💰 [Full-Stack Expense Tracker](https://github.com/Chamberidodoh/Full-Stack-Expense-Tracker)
-> Authenticated web app with cloud database, real-time charts, and full CRUD.
-> Node.js · Express · MongoDB Atlas · JWT · Chart.js · Render
-
-### 🧩 [DSA Solutions](https://github.com/chamberlineidodoh/dsa-solutions)
-> 55+ documented LeetCode solutions with Big-O analysis and pytest test suites.
-> Python · JavaScript · Algorithms · Data Structures
-
-### 🌤 [React Weather Dashboard](https://github.com/chamberlineidodoh/react-weather)
-> Real-time weather app with custom hooks, geolocation, and 5-day forecast.
-> React · Hooks · Context API · OpenWeather API · Netlify
----
-
-## 🛠 Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Front-End**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Back-End**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+My focus is on building intelligent applications that solve real business problems, especially tools that help people search documents, automate research, and customize AI models for specific domains.
 
 ---
 
-## 📫 Connect With Me
+## 🚀 What I'm Learning & Building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamberlineidodoh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2463?style=flat&logo=framer&logoColor=white)](https://chamberlineidodoh.framer.website/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Chamberidodoh@gmail.com)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/chamberidodoh)
+- AI Engineering
+- Large Language Models
+- Retrieval-Augmented Generation
+- Vector Databases
+- Model Fine-Tuning
+- FastAPI Backend Development
+- Full-Stack AI Applications
+- Cloud Deployment
+- Model Evaluation & Monitoring
 
 ---
 
-## ✍️ Building in Public
+## 🧠 Featured AI Projects
 
-I document my software engineering journey publicly — sharing wins, bugs, breakthroughs, and lessons every week.
+### 1. Internal Document Q&A System
+
+An AI-powered document assistant that allows business users to upload internal documents and ask questions in natural language.
+
+**Problem:**  
+Business users often struggle to search through internal documents manually.
+
+**Tech Stack:**  
+FastAPI · LangChain · ChromaDB · OpenAI · Streamlit · Docker
+
+**Key Features:**
+- Multi-document upload
+- Semantic search
+- AI-generated answers
+- Source citations
+- Conversation history
+- Dockerized deployment
+
+**Metrics Tracked:**
+- Query latency
+- Retrieval accuracy
+- User sessions
+- RAG evaluation score
 
 ---
 
-> *"The best way to learn software engineering is to build things that actually work."*
-> 
-> Currently open to **junior software engineering roles** — remote-first, open to relocation. Let's talk.
+### 2. Domain-Specific LLM Fine-Tuning
+
+A fine-tuning project focused on improving generic language models for specialized domains such as legal, medical, or coding tasks.
+
+**Problem:**  
+Generic LLMs often lack deep expertise in specialized fields.
+
+**Tech Stack:**  
+Hugging Face · PEFT/LoRA · PyTorch · Weights & Biases · FastAPI · Hugging Face Spaces
+
+**Key Features:**
+- QLoRA fine-tuning
+- Domain-specific dataset training
+- Model evaluation dashboard
+- REST API for inference
+- Base model vs fine-tuned model comparison
+
+**Metrics Tracked:**
+- Perplexity improvement
+- Task accuracy
+- Training loss
+- Evaluation loss
+- ROUGE and BLEU scores
+
+---
+
+### 3. AI Research Assistant
+
+A smart research assistant that searches the web, reads papers, remembers past research sessions, and generates structured reports.
+
+**Problem:**  
+Manual research on any topic can take hours, while AI can speed up the process significantly.
+
+**Tech Stack:**  
+LangGraph · Tavily Search · ChromaDB · FastAPI · React/Next.js · Redis
+
+**Key Features:**
+- Web search
+- Academic paper reading
+- Memory across sessions
+- Structured report generation
+- Source citations
+- Redis-powered caching
+
+**Stretch Features:**
+- Voice input with Whisper
+- Email delivery
+- Scheduled research runs
+
+**Metrics Tracked:**
+- Research quality rating
+- Number of sources cited
+- Session retention
+- Report generation speed
+
+---
+
+## 🛠️ Tools & Technologies
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Vector Stores
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A4FCF?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend & Deployment
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+I am currently focused on becoming a strong AI Engineer by building projects around:
+
+- Retrieval-Augmented Generation
+- LLM application development
+- AI agents and workflows
+- Model fine-tuning
+- Vector databases
+- Backend APIs for AI systems
+- Evaluation and monitoring of AI products
+
+---
+
+## 📈 GitHub Goals
+
+- Build production-ready AI projects
+- Document every project clearly
+- Deploy full-stack AI applications
+- Improve my Python and backend engineering skills
+- Create a portfolio that shows practical AI Engineering ability
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to learning, collaboration, internships, junior AI engineering opportunities, and building useful AI-powered products.
+
+- GitHub: [@chamberidodoh](https://github.com/chamberidodoh)
+- Email: chamberidodoh@gmail.com
+
+---
+
+## ✨ Motto
+
+> Building intelligent systems one project at a time.
