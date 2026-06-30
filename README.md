@@ -6,25 +6,12 @@ I am currently building my path into AI Engineering by creating practical, real-
 
 My focus is on building intelligent applications that solve real business problems, especially tools that help people search documents, automate research, and customize AI models for specific domains.
 
----
-
-## 🚀 What I'm Learning & Building
-
-- AI Engineering
-- Large Language Models
-- Retrieval-Augmented Generation
-- Vector Databases
-- Model Fine-Tuning
-- FastAPI Backend Development
-- Full-Stack AI Applications
-- Cloud Deployment
-- Model Evaluation & Monitoring
 
 ---
 
 ## 🧠 Featured AI Projects
 
-### 1. [Internal Document Q&A System](https://github.com/chamberidodoh)
+### 1. [RAG-Powered Document Intelligence Platform]([https://github.com/users/Chamberidodoh/projects/2])
 
 An AI-powered document assistant that allows business users to upload internal documents and ask questions in natural language.
 
@@ -36,7 +23,7 @@ FastAPI · LangChain · ChromaDB · OpenAI · Streamlit · Docker
 
 ---
 
-### 2. [Domain-Specific LLM Fine-Tuning](https://github.com/chamberidodoh)
+### 2. [Fine-Tuned Domain-Specific LLM + API Service]([https://github.com/users/Chamberidodoh/projects/3]).
 
 A fine-tuning project focused on improving generic language models for specialized domains such as legal, medical, or coding tasks.
 
@@ -48,7 +35,7 @@ Hugging Face · PEFT/LoRA · PyTorch · Weights & Biases · FastAPI · Hugging F
 
 ---
 
-### 3. [AI Research Assistant](https://github.com/chamberidodoh)
+### 3. [Autonomous AI Research Agent with Memory]([https://github.com/users/Chamberidodoh/projects/1]).
 
 A smart research assistant that searches the web, reads papers, remembers past research sessions, and generates structured reports.
 
